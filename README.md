@@ -20,7 +20,7 @@ Putting important React concepts into practice. How: React Query, shadcn ui
 
 ### Libs 
 
-- `react-queru`
+- `react-query`
 - `zood`
 - `shadcn-ui`
 - `react-router-dom`
